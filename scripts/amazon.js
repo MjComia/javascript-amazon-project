@@ -1,3 +1,5 @@
+// 11:49
+
 const products = [{
     image: 'images/products/athletic-cotton-socks-6-pairs.jpg',
     name: 'Black and Gray Athletic Cotton Socks - 6 Pairs',
@@ -24,6 +26,8 @@ const products = [{
         count: 56
     },
     priceCents: 799
+},{
+
 }]; 
 
 let productsHTML = '';
